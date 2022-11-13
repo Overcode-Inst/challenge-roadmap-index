@@ -30,6 +30,7 @@ Todos desafios dessa sessão tem o prefixo challenge-F- no nome, esses prefixos 
 | 002 | [Sessão para divulgação de exposição](https://github.com/JCDMeira/challenge-F-002-one-section "challenge-F-002-one-section") | HTML e CSS     |
 | 003 | [Landing page de restaurante](https://github.com/JCDMeira/challenge-F-003-lp "challenge-F-003-lp")                           | HTML e CSS     |
 | 004 | [Landing page de escritório de arquitetura](https://github.com/JCDMeira/challenge-F-004-lp-js "challenge-F-004-lp-js")       | HTML, CSS e JS |
+| 005 | [Calculadora de IMC](https://github.com/JCDMeira/challenge-F-005-imc-calculator "challenge-F-005-imc-calculator")            | HTML, CSS e JS |
 
 # :sunglasses: Autor <a name="id08"></a>
 
