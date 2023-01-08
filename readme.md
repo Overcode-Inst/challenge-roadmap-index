@@ -32,6 +32,10 @@ Todos desafios dessa sessão tem o prefixo challenge-F- no nome, esses prefixos 
 | 004 | [Landing page de escritório de arquitetura](https://github.com/JCDMeira/challenge-F-004-lp-js "challenge-F-004-lp-js")       | HTML, CSS e JS |
 | 005 | [Calculadora de IMC](https://github.com/JCDMeira/challenge-F-005-imc-calculator "challenge-F-005-imc-calculator")            | HTML, CSS e JS |
 | 006 | [Form gerador de leads](https://github.com/JCDMeira/challenge-F-006-form-validation "challenge-F-006-form-validation ")      | HTML, CSS e JS |
+| 007 | [Calculator](https://github.com/JCDMeira/challenge-F-007-calculator "challenge-F-007-calculator")                            | HTML, CSS e JS |
+| 008 | [To-do list](https://github.com/JCDMeira/challenge-F-008-to-do-list "challenge-F-008-to-do-list")                            | HTML, CSS e JS |
+| 009 | [Shopping cart](https://github.com/JCDMeira/challenge-F-009-shopping-cart "challenge-F-009-shopping-cart")                   | HTML, CSS e JS |
+| 010 | [Weather app](https://github.com/JCDMeira/challenge-F-010-weather-app "challenge-F-010-weather-app")                         | HTML, CSS e JS |
 
 # :sunglasses: Autor <a name="id08"></a>
 
