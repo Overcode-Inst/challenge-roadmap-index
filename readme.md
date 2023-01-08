@@ -42,9 +42,28 @@ Todos desafios dessa sessão tem o prefixo challenge-F- no nome, esses prefixos 
 
 Todos desafios dessa sessão tem o prefixo challenge-FR- no nome, esses prefixos são para facilitar a adição e controle dos projetos propostos, sendo challenge sempre usado e FR representa o front-end usando ReactJS.
 
-| nº  | Repositório do projeto                                                                                    | Techs |
-| --- | --------------------------------------------------------------------------------------------------------- | ----- |
-| 001 | [Linktree hub](https://github.com/JCDMeira/challenge-FR-001-linktree-hub "challenge-FR-001-linktree-hub") | React |
+| nº  | Repositório do projeto                                                                                                                                                         | Techs |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----- |
+| 001 | [Linktree hub](https://github.com/JCDMeira/challenge-FR-001-linktree-hub "challenge-FR-001-linktree-hub")                                                                      | React |
+| 002 | [Travel plans columns](https://github.com/JCDMeira/challenge-FR-002-travel-plans-columns "challenge-FR-002-travel-plans-columns")                                              | React |
+| 003 | [Score counter](https://github.com/JCDMeira/challenge-FR-003-score-counter "challenge-FR-003-score-counter")                                                                   | React |
+| 004 | [Winning choice](https://github.com/JCDMeira/challenge-FR-004-winning-choice "challenge-FR-004-winning-choice")                                                                | React |
+| 005 | [Display case](https://github.com/JCDMeira/challenge-FR-005-display-case "challenge-FR-005-display-case")                                                                      | React |
+| 006 | [Registration of people](https://github.com/JCDMeira/challenge-FR-006-registration-of-people "challenge-FR-006-registration-of-people")                                        | React |
+| 007 | [Registration for events and parties](https://github.com/JCDMeira/challenge-FR-007-registration-for-events-and-parties "challenge-FR-007-registration-for-events-and-parties") | React |
+| 008 | [Monetary planner](https://github.com/JCDMeira/challenge-FR-008-monetary-planner "challenge-FR-008-monetary-planner")                                                          | React |
+| 009 | [Brazil landscapes](https://github.com/JCDMeira/challenge-FR-009-brazil-landscapes "challenge-FR-009-brazil-landscapes")                                                       | React |
+| 010 | [Book guide](https://github.com/JCDMeira/challenge-FR-010-book-guide "challenge-FR-010-book-guide")                                                                            | React |
+| 011 | [getCandy](https://github.com/JCDMeira/challenge-FR-011-getCandy "challenge-FR-011-getCandy")                                                                                  | React |
+| 012 | [Search series](https://github.com/JCDMeira/challenge-FR-012-search-series "challenge-FR-012-search-series")                                                                   | React |
+| 013 | [Guest list](https://github.com/JCDMeira/challenge-FR-013-guest-list "challenge-FR-013-guest-list")                                                                            | React |
+| 014 | [Find a pokemon](https://github.com/JCDMeira/challenge-FR-014-find-a-pokemon "challenge-FR-014-find-a-pokemon")                                                                | React |
+| 015 | [Feedback review](https://github.com/JCDMeira/challenge-FR-015-feedback-review "challenge-FR-015-feedback-review")                                                             | React |
+| 016 | [Teach to learn](https://github.com/JCDMeira/challenge-FR-016-teach-to-learn "challenge-FR-016-teach-to-learn")                                                                | React |
+| 017 | [On the road](https://github.com/JCDMeira/challenge-FR-017-on-the-road "challenge-FR-017-on-the-road")                                                                         | React |
+| 018 | [On the road](https://github.com/JCDMeira/challenge-FR-018-books-for-life "challenge-FR-018-books-for-life")                                                                   | React |
+| 019 | [Lets cook](https://github.com/JCDMeira/challenge-FR-019-lets-cook "challenge-FR-019-lets-cook")                                                                               | React |
+| 020 | [Quiz app](https://github.com/JCDMeira/challenge-FR-020-quiz-app "challenge-FR-020-quiz-app")                                                                                  | React |
 
 # :sunglasses: Autor <a name="id08"></a>
 
