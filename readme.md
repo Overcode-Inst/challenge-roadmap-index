@@ -3,6 +3,7 @@
 - [Proposta](#id01)
 - [Front-end](#id02)
   - [HTML, CSS e JS](#id02.1)
+  - [React](#id02.2)
 - [back-end](#id03)
 - [Autor](#id08)
 
@@ -36,6 +37,14 @@ Todos desafios dessa sessão tem o prefixo challenge-F- no nome, esses prefixos 
 | 008 | [To-do list](https://github.com/JCDMeira/challenge-F-008-to-do-list "challenge-F-008-to-do-list")                            | HTML, CSS e JS |
 | 009 | [Shopping cart](https://github.com/JCDMeira/challenge-F-009-shopping-cart "challenge-F-009-shopping-cart")                   | HTML, CSS e JS |
 | 010 | [Weather app](https://github.com/JCDMeira/challenge-F-010-weather-app "challenge-F-010-weather-app")                         | HTML, CSS e JS |
+
+## React<a name="id02.2"></a>
+
+Todos desafios dessa sessão tem o prefixo challenge-FR- no nome, esses prefixos são para facilitar a adição e controle dos projetos propostos, sendo challenge sempre usado e FR representa o front-end usando ReactJS.
+
+| nº  | Repositório do projeto                                                                                    | Techs |
+| --- | --------------------------------------------------------------------------------------------------------- | ----- |
+| 001 | [Linktree hub](https://github.com/JCDMeira/challenge-FR-001-linktree-hub "challenge-FR-001-linktree-hub") | React |
 
 # :sunglasses: Autor <a name="id08"></a>
 
