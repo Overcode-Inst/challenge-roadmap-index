@@ -61,7 +61,7 @@ Todos desafios dessa sessão tem o prefixo challenge-FR- no nome, esses prefixos
 | 015 | [Feedback review](https://github.com/JCDMeira/challenge-FR-015-feedback-review "challenge-FR-015-feedback-review")                                                             | React |
 | 016 | [Teach to learn](https://github.com/JCDMeira/challenge-FR-016-teach-to-learn "challenge-FR-016-teach-to-learn")                                                                | React |
 | 017 | [On the road](https://github.com/JCDMeira/challenge-FR-017-on-the-road "challenge-FR-017-on-the-road")                                                                         | React |
-| 018 | [On the road](https://github.com/JCDMeira/challenge-FR-018-books-for-life "challenge-FR-018-books-for-life")                                                                   | React |
+| 018 | [Books for life](https://github.com/JCDMeira/challenge-FR-018-books-for-life "challenge-FR-018-books-for-life")                                                                   | React |
 | 019 | [Lets cook](https://github.com/JCDMeira/challenge-FR-019-lets-cook "challenge-FR-019-lets-cook")                                                                               | React |
 | 020 | [Quiz app](https://github.com/JCDMeira/challenge-FR-020-quiz-app "challenge-FR-020-quiz-app")                                                                                  | React |
 
