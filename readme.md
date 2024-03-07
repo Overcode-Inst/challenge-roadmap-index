@@ -4,18 +4,22 @@
 - [Front-end](#id02)
   - [HTML, CSS e JS](#id02.1)
   - [React](#id02.2)
-- [back-end](#id03)
+  <!-- - [back-end](#id03) -->
 - [Autor](#id08)
 
 # 🚀 Proposta <a name="id01"></a>
 
 Assim como Linus Torvalds disse "Falar é fácil, me mostre o código". Nós desenvolvedores nunca vamos aprender a programar e desenvolver software sem efetivamente codar, é como tentar aprender a andar de bicicleta lendo livros e vendo vídeos.
 
-E foi assim que essa abordagem nasceu, um roadmap baseado em projetos. A ideia em seu princípio é simples, essa é uma demanda, tente encarar como um desafio técnico e completá-lo em até 7 dias.
+E foi assim que essa abordagem nasceu, um roadmap baseado em projetos. A ideia em seu princípio é simples, encare a proposta de demanda como algo real que lhe foi pedido. Pode pensar como uma demanda de teste técnico e trabalhar no desenvolvimento durante 7 dias. Se estiver explorando de forma diferente e quiser se aprofundar mais pode também levar como um projeto de 14 dias ou mesmo um estudo de caso de 7 ou 14 dias. Não recomendo durações maiores que os 14 dias indicados.
 
-Todos seguem o mesmo princípio de passar uma demanda baseada numa pequena história para dar contexto. Sinta-se livre para usar os desafios como quiser, todos podem ser usados como portifólio ou prática.
+Todos seguem o mesmo princípio de passar uma demanda baseada numa pequena história para dar contexto. Sinta-se livre para usar os desafios como quiser, todos podem ser usados como portifólio ou prática. Em cada uma das demandas são passados requisitos além da história base da situação, são eles o requisitos funcionais, não funcionais, não obrigatórios e os adicionais.
 
-Ao completar, não esqueça de publicar no linkedin e adicionar #handsOnRoadmap
+Os **requisitos funcionais** são aspectos compotamentais esperados para o resultado final, ou seja, situações ou casos de uso a serem atendidos. Já os **não funcionais** são aspectos de cunho técnico que se espera que sejam contemplados.
+
+Além desses dois há os **não obrigatórios** que são pontos extras que são sugeridos para ir um pouco mais fundo no desafio. E por último os **adicionais** são coisas que você por pura e expontânea voltade pode adicionar ao desafio para condizer mais com seus propositos de aprendizagem.
+
+Siga as recomendações dos desafios e espero que eles te façam aprender e progredir.
 
 # front-end <a name="id02"></a>
 
@@ -61,7 +65,7 @@ Todos desafios dessa sessão tem o prefixo challenge-FR- no nome, esses prefixos
 | 015 | [Feedback review](https://github.com/JCDMeira/challenge-FR-015-feedback-review "challenge-FR-015-feedback-review")                                                             | React |
 | 016 | [Teach to learn](https://github.com/JCDMeira/challenge-FR-016-teach-to-learn "challenge-FR-016-teach-to-learn")                                                                | React |
 | 017 | [On the road](https://github.com/JCDMeira/challenge-FR-017-on-the-road "challenge-FR-017-on-the-road")                                                                         | React |
-| 018 | [Books for life](https://github.com/JCDMeira/challenge-FR-018-books-for-life "challenge-FR-018-books-for-life")                                                                   | React |
+| 018 | [Books for life](https://github.com/JCDMeira/challenge-FR-018-books-for-life "challenge-FR-018-books-for-life")                                                                | React |
 | 019 | [Lets cook](https://github.com/JCDMeira/challenge-FR-019-lets-cook "challenge-FR-019-lets-cook")                                                                               | React |
 | 020 | [Quiz app](https://github.com/JCDMeira/challenge-FR-020-quiz-app "challenge-FR-020-quiz-app")                                                                                  | React |
 
@@ -69,6 +73,10 @@ Todos desafios dessa sessão tem o prefixo challenge-FR- no nome, esses prefixos
 
 <br />
 
+Me chamo Jean e sou desenvolvedor voltado para web desde 2020, minha carreia começa no ambito de engenharia de controle e automação industrial, por isso já programei em linguagens de baixo nível, até mesmo usando programação por hardware apenas com bits lógicos de sinais de elétricos. Sou apaixonado por aprender e por descontrução de padrões lógicos e um auto didata desde que me lembro. Na minha pós graduação em gestão de projetos de controle e automação tive contato com programação web e linguagens de mais alto nível e ali deccidi pivotar a minha carreiras para esse foco.
+
+Na minha trajetória academica fui monitor no ensino médio e também na faculdade e nisso peguei gosto por ensinar, e após isso já fui tutor em mentoria de transições de carreira para o meio dev e hoje tenho mentorias de grupo e individuais para desenvolvedores iniciantes e intermediários. Também busco escrever materiais como esse roadmap orientado a projetos para contribuir com toda a comunidade dev e quem quer fazer parte dela.
+
+E por último te convido a me chamar no linkedin e criar uma conexão para que possamos trocar mais ideias sobre programação.
+
 - Linkedin - [Jean Carlos De Meira](https://www.linkedin.com/in/jeanmeira/)
-- Instagram - [@jean.meira10](https://www.instagram.com/jean.meira10/)
-- GitHub - [JCDMeira](https://github.com/JCDMeira)
