@@ -79,4 +79,5 @@ Na minha trajetória academica fui monitor no ensino médio e também na faculda
 
 E por último te convido a me chamar no linkedin e criar uma conexão para que possamos trocar mais ideias sobre programação.
 
-- Linkedin - [Jean Carlos De Meira](https://www.linkedin.com/in/jeanmeira/)
+- [Linkedin](https://www.linkedin.com/in/jeanmeira/)
+- [Medium](https://medium.com/@jean.meira10)
