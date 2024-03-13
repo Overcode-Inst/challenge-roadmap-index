@@ -73,7 +73,7 @@ Todos desafios dessa sessão tem o prefixo challenge-FR- no nome, esses prefixos
 
 <br />
 
-Me chamo Jean e sou desenvolvedor voltado para web desde 2020, minha carreia começa no ambito de engenharia de controle e automação industrial, por isso já programei em linguagens de baixo nível, até mesmo usando programação por hardware apenas com bits lógicos de sinais de elétricos. Sou apaixonado por aprender e por descontrução de padrões lógicos e um auto didata desde que me lembro. Na minha pós graduação em gestão de projetos de controle e automação tive contato com programação web e linguagens de mais alto nível e ali decidi pivotar a minha carreiras para esse foco.
+Me chamo **Jean** e sou desenvolvedor voltado para web desde 2020, minha carreia começa no âmbito de engenharia de controle e automação industrial, por isso já programei em linguagens de baixo nível, até mesmo usando programação por hardware apenas com bits lógicos de sinais de elétricos. Sou apaixonado por aprender e por descontrução de padrões lógicos e um auto didata desde que me lembro. Na minha pós graduação em gestão de projetos de controle e automação tive contato com programação web e linguagens de mais alto nível e ali decidi pivotar a minha carreiras para esse foco.
 
 Na minha trajetória academica fui monitor no ensino médio e também na faculdade e nisso peguei gosto por ensinar, e após isso já fui tutor em mentoria de transições de carreira para o meio dev e hoje tenho mentorias de grupo e individuais para desenvolvedores iniciantes e intermediários. Também busco escrever materiais como esse roadmap orientado a projetos para contribuir com toda a comunidade dev e quem quer fazer parte dela.
 
